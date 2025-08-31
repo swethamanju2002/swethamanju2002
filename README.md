@@ -2,6 +2,8 @@
 
 🚀 Aspiring Full-Stack Engineer** | 💻 **Frontend Developer | 🌱 Computer Science Student |
 
+![img](https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg)
+
 ## 🙋 About Me  
 
 - 🎓 I’m a **Final year Computer Science Engineering student**  
@@ -38,16 +40,19 @@
 
 ---
 
+
 ### 🛠️ Tools & Platforms  
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
-<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><br>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/netlify.png" alt="netlify"/><br>
 
 
 ---
+
 
 ## 🌐 Connect With Me  
 
