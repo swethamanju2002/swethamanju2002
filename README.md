@@ -4,7 +4,7 @@
 
 ## 🙋 About Me  
 
-<img width="150" height="150" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
+<img width="200" height="200" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
 
 - 🎓 I’m a **Final year Computer Science Engineering student**  
 - 🌱 Currently learning **React, UI/UX Design, and Backend Integration**  
@@ -38,7 +38,7 @@
 
 ---
 
-##🛠️ Tools & Platforms  
+## 🛠️ Tools & Platforms  
 
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
