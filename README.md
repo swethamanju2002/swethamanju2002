@@ -15,7 +15,7 @@ I love building **responsive & interactive web applications** and bringing ideas
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
-<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><br>
 
 ---
 
@@ -25,7 +25,7 @@ I love building **responsive & interactive web applications** and bringing ideas
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
-<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><br>
 
 ---
 
