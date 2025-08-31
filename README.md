@@ -15,6 +15,8 @@
 - 💡 I’m curious, ask a lot of questions, and love exploring new technologies  
 - 🎯 **Looking for:** Frontend / Web Development internships & opportunities to grow as a full-stack developer  
 
+--- 
+
 ## 🚀 What I’m Doing Currently  
 
 - 📚 Pursuing a **Full-Stack Web Development Course**  
@@ -22,8 +24,6 @@
 - 🌐 Working on projects like **Weather App, Portfolio Website, and Hackathon Solutions**  
 - ✍️ Practicing **DSA & Aptitude** for interviews  
 - 💬 Improving **English communication skills** alongside tech skills  
-
----
 
 ## 🛠️ Tech Stack, Tools & Platforms  
 
