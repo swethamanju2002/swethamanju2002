@@ -14,12 +14,18 @@ I love building **responsive & interactive web applications** and bringing ideas
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
+---
 
 ### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 ---
 
