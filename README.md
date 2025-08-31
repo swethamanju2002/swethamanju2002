@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full-Stack Engineer** | 💻 **Frontend Developer | 🌱 Computer Science Student |
 
-![img](https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg)
+<img width="50" height="50" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
 
 ## 🙋 About Me  
 
@@ -40,8 +40,8 @@
 
 ---
 
-
 ### 🛠️ Tools & Platforms  
+
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
