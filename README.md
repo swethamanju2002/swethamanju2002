@@ -2,9 +2,9 @@
 
 🚀 Aspiring Full-Stack Engineer** | 💻 **Frontend Developer | 🌱 Computer Science Student |
 
-<img width="50" height="50" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
-
 ## 🙋 About Me  
+
+<img width="150" height="150" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
 
 - 🎓 I’m a **Final year Computer Science Engineering student**  
 - 🌱 Currently learning **React, UI/UX Design, and Backend Integration**  
@@ -23,7 +23,6 @@
 - ✍️ Practicing **DSA & Aptitude** for interviews  
 - 💬 Improving **English communication skills** alongside tech skills  
 
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -37,10 +36,9 @@
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><br>
 
-
 ---
 
-### 🛠️ Tools & Platforms  
+##🛠️ Tools & Platforms  
 
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
@@ -50,16 +48,13 @@
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/netlify.png" alt="netlify"/><br>
 
-
 ---
-
 
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swetha0001)   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethaharish2222@gmail.com)  
 
----
 
 ⭐ *“Every project I build is a step closer to becoming the developer I aspire to be.”*  
 
