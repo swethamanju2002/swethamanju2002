@@ -6,7 +6,7 @@
 
 ## 🙋 About Me  
 
-<img width="350" height="350" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
+<img width="300" height="300" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
 
 - 🎓 I’m a **Final year Computer Science Engineering student**  
 - 🌱 Currently learning **React, UI/UX Design, and Backend Integration**  
@@ -24,6 +24,8 @@
 - 🌐 Working on projects like **Weather App, Portfolio Website, and Hackathon Solutions**  
 - ✍️ Practicing **DSA & Aptitude** for interviews  
 - 💬 Improving **English communication skills** alongside tech skills  
+
+---
 
 ## 🛠️ Tech Stack, Tools & Platforms  
 
