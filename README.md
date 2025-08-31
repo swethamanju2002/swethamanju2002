@@ -2,9 +2,11 @@
 
 🚀 Aspiring Full-Stack Engineer | 💻 Frontend Developer | 🌱 Computer Science Student |
 
+---
+
 ## 🙋 About Me  
 
-<img width="250" height="250" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
+<img width="350" height="350" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
 
 - 🎓 I’m a **Final year Computer Science Engineering student**  
 - 🌱 Currently learning **React, UI/UX Design, and Backend Integration**  
