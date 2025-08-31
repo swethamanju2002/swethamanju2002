@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Swetha!  
 
-🚀 Aspiring Full-Stack Engineer** | 💻 **Frontend Developer | 🌱 Computer Science Student |
+🚀 Aspiring Full-Stack Engineer | 💻 Frontend Developer | 🌱 Computer Science Student |
 
 ## 🙋 About Me  
 
-<img width="200" height="200" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
+<img width="250" height="250" align="right" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg" alt="developer">
 
 - 🎓 I’m a **Final year Computer Science Engineering student**  
 - 🌱 Currently learning **React, UI/UX Design, and Backend Integration**  
@@ -41,7 +41,7 @@
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/netlify.png" alt="netlify"/><br>
+<img width="48" height="48" src="https://img.icons8.com/color/48/netlify.png" alt="netlify"/>
 
 ---
 
