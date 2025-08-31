@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack, Tools & Platforms  
 
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>  
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
@@ -34,12 +34,7 @@
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
-<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><br>
-
----
-
-## 🛠️ Tools & Platforms  
-
+<img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
